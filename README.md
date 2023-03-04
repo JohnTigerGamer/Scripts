@@ -9,8 +9,14 @@ Sobre los scripts:
 Espero que los disfrutéis
 
 conoceTuIp.sh         -> Muestra tu ip de manera bonita
+
 hostScan.sh           -> Escanea la red para ver con que ips tienes conexión, se utiliza tramas icmp
+
 htbmachines.sh        -> Utilidad para filtrar, buscar etc las máquinas de Hack The Box
+
 jp_mode_monitor.sh    -> Pasa una interface wifi a modo monitor, necesario para tarjetas TP-LINK WN722N
+
 ListColores.sh        -> Código para aprovechar para tus scripts y poder colorearlos
+
 portScan.sh           -> Conoce que puertos tienes abiertos en tu pc
+
