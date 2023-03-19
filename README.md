@@ -16,6 +16,8 @@ Espero que los disfrutéis
 
 [+] jp_mode_monitor.sh    -> Pasa una interface wifi a modo monitor, necesario para tarjetas TP-LINK WN722N
 
+[+] safe_thm.sh           -> Conseguir conexión segura en TryHackMe (autora Wh1teDrvg0n)
+
 [+] ListColores.sh        -> Código para aprovechar para tus scripts y poder colorearlos
 
 [+] portScan.sh           -> Conoce que puertos tienes abiertos en tu pc
