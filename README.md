@@ -6,6 +6,7 @@ Sobre los scripts:
 
 3.-Sé que no son gran cosa pero quizás puedan ser de utilidad
 
+
 Espero que los disfrutéis
 
 [+] conoceTuIp.sh         -> Muestra tu ip de manera bonita
