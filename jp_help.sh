@@ -40,7 +40,7 @@ nOpcion=0
 
 echo -e "${blueColour}[+]${endColour}${grayColour}Elija una opción para mostrar su ayuda${endColour}\n"
 
-echo -e "${blueColour}1-${endColour}${grayColour}Metaesploit${endColour}"
+echo -e "${blueColour}1-${endColour}${grayColour}Metasploit${endColour}"
 echo -e "${blueColour}2-${endColour}${grayColour}Nessus${endColour}"
 echo -e "${blueColour}3-${endColour}${grayColour}${endColour}"
 echo -e "${blueColour}99-${endColour}${grayColour}Atajos${endColour}"
@@ -50,7 +50,7 @@ echo -e "\n"
 
 case $nOpcion in
   1)
-    echo -e "${blueColour}Ayuda para Metaesploit${endColour}${grayColour}"
+    echo -e "${blueColour}Ayuda para Metasploit${endColour}${grayColour}"
     echo -e "${blueColour}1.-Iniciar Base de Datos SQL \t\t ${endColour}${grayColour}service postgresql start${endColour}"
     echo -e "${blueColour}2.-Iniciar Base de Datos Metasploit \t ${endColour}${grayColour}msfdb init${endColour}"
     echo -e "${blueColour}3.-Iniciar Metasploit \t\t\t ${endColour}${grayColour}msfconsole${endColour}";;
