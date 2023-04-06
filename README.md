@@ -12,7 +12,15 @@ Espero que los disfrutéis
 
 [+] hostScan.sh           -> Escanea la red para ver con que ips tienes conexión, se utiliza tramas icmp
 
+[+] escaneoIP.sh          -> Escanea un rango de red para buscar con equipos see tiene conexión
+
 [+] htbmachines.sh        -> Utilidad para filtrar, buscar etc las máquinas de Hack The Box
+
+[+] jp_estoyHack.sh       -> Utilidad para abrir varias pestañas en la terminal. 
+
+[+] jp_help.sh            -> Utilidad de comandos de ayuda
+
+[+] jp_metasploit.sh      -> Como iniciar Metasploit de manera correcta
 
 [+] jp_mode_monitor.sh    -> Pasa una interface wifi a modo monitor, necesario para tarjetas TP-LINK WN722N
 
